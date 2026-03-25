@@ -1,4 +1,4 @@
-# HR-attrition-Dashboard-Advanced-Excel
+# HR-Attrition-Dashboard-Advanced-Excel
 Project Overview
 
 This project analyzes employee attrition data using Microsoft Excel to identify workforce trends, attrition patterns, and key HR metrics. The dashboard provides insights into employee turnover, job satisfaction, and demographic distribution to support better decision-making.
